@@ -1,4 +1,3 @@
 # Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+Note: After Downloading, Open ipynb file using jupyter Notebook only.
 
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
